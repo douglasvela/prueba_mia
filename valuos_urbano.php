@@ -1,3 +1,4 @@
+﻿//esta es una prueba de cambios
 <?php session_start();
 $idusu = trim($_SESSION['id']);
 	include_once ("../modelo/Conexion.php");
